@@ -1,10 +1,10 @@
 ## Olá, me chamo Diogo! 😄
 
-<img href="https://github-readme-stats-diogofrr.vercel.app/api?username=diogofrr&show_icons=true&theme=radical" />
 ![Diogo GitHub stats](https://github-readme-stats-diogofrr.vercel.app/api?username=diogofrr&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=diogofrr&layout=compact&theme=radical)
 
 <div style="display: inline_block">
+  <img href="https://github-readme-stats-diogofrr.vercel.app/api?username=diogofrr&show_icons=true&theme=radical" />
   <br>
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
