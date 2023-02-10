@@ -1,12 +1,9 @@
 ## Olá, me chamo Diogo! 😄
 
 <div style="display: inline_block">
-  <img alt="Diogo-Github-Stats" href="https://github-readme-stats-diogofrr.vercel.app/api?username=diogofrr&show_icons=true&theme=radical" />
+  ![Diogo GitHub stats](https://github-readme-stats-diogofrr.vercel.app/api?username=diogofrr&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=diogofrr&layout=compact)]
 </div>
-
-<a href="https://github.com/diogofrr">
-  <img align="center" src="https://github-readme-stats-diogofrr.vercel.app/api/pin/?username=diogofrr&repo=github-readme-stats" />
-</a>
 
 <div style="display: inline_block">
   <br>
