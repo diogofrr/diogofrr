@@ -1,6 +1,10 @@
-## Olá, me chamo Diogo! 😄
+## Olá, me chamo <a href="https://diogofrr.vercel.app/" target="_blank">Diogo</a>! 😄
 
-<a href="https://github.com/gustavourzedo">
+- 🧾 Desenvolvedor Junior.
+
+## Veja meu <a href="https://diogofrr.vercel.app/" target="_blank">Portfólio</a>!
+
+<a href="https://github.com/diogofrr">
   <img height="200em" src="https://github-readme-stats-diogofrr.vercel.app/api?username=diogofrr&show_icons=true&theme=radical"/>
   <img height="200em" src="https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=diogofrr&theme=radical"/>
 </div>
