@@ -1,7 +1,7 @@
 ## Olá, me chamo Diogo! 😄
 
 ![Diogo GitHub stats](https://github-readme-stats-diogofrr.vercel.app/api?username=diogofrr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=diogofrr&layout=compact)
+![Top Langs](https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=diogofrr&layout=compact&theme=radical)
 
 <div style="display: inline_block">
   <br>
