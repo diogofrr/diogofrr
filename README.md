@@ -5,8 +5,17 @@
 ## Veja meu <a href="https://diogofrr.vercel.app/" target="_blank">Portfólio</a>!
 
 <a href="https://github.com/diogofrr">
-  <img height="200em" src="https://github-readme-stats-diogofrr.vercel.app/api?username=diogofrr&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=diogofrr&theme=radical"/>
+  <picture>
+    <source srcset="https://github-readme-stats-diogofrr.vercel.app/api?username=diogofrr&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-diogofrr.vercel.app/api?username=diogofrr&show_icons=true&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="200em" src="https://github-readme-stats-diogofrr.vercel.app/api?username=diogofrr&show_icons=true" />
+  </picture>
+  
+  <picture>
+    <source srcset="https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=diogofrr&theme=radical" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=diogofrr" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="200em" src="https://github-readme-stats-diogofrr.vercel.app/api/top-langs/?username=diogofrr" />
+  </picture>
 </div>
 <div style="display: inline_block">
   <br>
