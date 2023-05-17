@@ -1,6 +1,6 @@
 ## Olá, me chamo <a href="https://diogofrr.vercel.app/" target="_blank">Diogo</a>! 😄
 
-- 🧾 Desenvolvedor Junior.
+- 🖥⚛ Front-end Developer
 
 ## Veja meu <a href="https://diogofrr.vercel.app/" target="_blank">Portfólio</a>!
 
@@ -26,6 +26,7 @@
   <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Diogo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Diogo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 <br>
 <div> 
