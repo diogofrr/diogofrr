@@ -24,9 +24,11 @@
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="Diogo-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" />
+  <img align="center" alt="Diogo-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+  <img align="center" alt="Diogo-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />
   <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Diogo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Diogo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 <br>
 <div> 
@@ -34,5 +36,3 @@
  <a href="https://www.linkedin.com/in/diogo-ferreira-0513ba223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> 
   <a href = "mailto:diogofrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 </div>
-
-![Snake animation](https://github.com/diogofrr/diogofrr/blob/output/github-contribution-grid-snake.svg)
