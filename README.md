@@ -1,6 +1,6 @@
 ## Olá, me chamo <a href="https://diogo-dev.vercel.app/" target="_blank">Diogo</a>! 😄
 
-- 🖥⚛ Front-end Developer
+- 🖥 Fullstack Developer
 
 ## Veja meu <a href="https://diogo-dev.vercel.app/" target="_blank">Portfólio</a>!
 
@@ -25,11 +25,13 @@
   <img align="center" alt="Diogo-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Diogo-ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="Diogo-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Diogo-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="Diogo-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Diogo-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
   <img align="center" alt="Diogo-MUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />
   <img align="center" alt="Diogo-TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="Diogo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Diogo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Diogo-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 </div>
 <br>
 <div> 
